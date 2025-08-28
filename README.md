@@ -12,19 +12,4 @@ HanzDev.ID adalah proyek/platform yang bertujuan untuk memberikan layanan dan so
 
 1. Clone repositori ini:
 ```bash
-git clone https://github.com/username/HanzDev.ID.git      </div>
-    </div>
-  </section>
-
-  <section>
-    <h2>Kontak Kami</h2>
-    <p>📍 Lokasi: Jl. Contoh No.123, Kota Anda</p>
-    <p>📞 WhatsApp: 08xx-xxxx-xxxx</p>
-    <p>📧 Email: hdtechservice@email.com</p>
-  </section>
-
-  <footer>
-    <p>&copy; 2025 HDTech Service. All rights reserved.</p>
-  </footer>
-</body>
-</html>
+git clone https://github.com/username/HanzDev.ID.git
